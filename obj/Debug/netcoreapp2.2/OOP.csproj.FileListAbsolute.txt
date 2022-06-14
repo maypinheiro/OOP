@@ -1,0 +1,13 @@
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.deps.json
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.json
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.runtimeconfig.dev.json
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.dll
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\bin\Debug\netcoreapp2.2\OOP.pdb
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.AssemblyReference.cache
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfoInputs.cache
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.AssemblyInfo.cs
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.csproj.CoreCompileInputs.cache
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.dll
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.pdb
+C:\Users\mayar\Downloads\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\OOP\obj\Debug\netcoreapp2.2\OOP.genruntimeconfig.cache
